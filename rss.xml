@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>科普节目转录</title>
+    <description>这是一个在线科普节目，包含m3u8视频流地址，用于通义听悟语音转写。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>科普节目 - 第1集</title>
+      <description>通过通义听悟进行转录的科普节目内容。</description>
+      <link>https://qvod2.vzan.com/clip/697181072/96812030/5477e2ecbbbe4740bbb807e060ba536f.m3u8</link>
+      <enclosure url="https://qvod2.vzan.com/clip/697181072/96812030/5477e2ecbbbe4740bbb807e060ba536f.m3u8" type="application/vnd.apple.mpegurl"/>
+      <pubDate>Thu, 24 Oct 2024 10:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
